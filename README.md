@@ -1,7 +1,7 @@
 # Usuarios Admin
 
 ### Usuario 1
-Correo: tydanibran1744@gmail.com
+Correo: danibran1744@gmail.com
 
 Contraseña: danibran1744
 
